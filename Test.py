@@ -1,1 +1,0 @@
-print(f"Welcome to python ... Guido Van Rossum")
